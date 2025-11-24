@@ -77,6 +77,6 @@ Whether you're a **freelancer** building your personal portfolio, a **small busi
 
 ## 👤 **About Me**
 
-**Momen Sarsour — Web Developer & Designer**  
+**Momen Sarsour — Computer Systems Engineering**  
 📧 Email: **momensarsour5@gmail.com**  
 📱 WhatsApp: **+970567077179**
